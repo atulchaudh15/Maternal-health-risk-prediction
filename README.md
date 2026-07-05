@@ -51,7 +51,7 @@ MaternalCare AI aims to support early identification of pregnancy-related health
 Maternal-health-risk-prediction/
 │── app.py
 │── Maternal Health Risk Data Set.csv
-│── MaternalCare_AI_EDA_Model_Ramya.ipynb
+│── MaternalCare_AI_EDA_Model.ipynb
 │── model_comparison.ipynb
 │── Intelligent_Software_Defect_Prediction.ipynb
 │── rf_model.pkl
