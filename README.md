@@ -48,7 +48,7 @@ MaternalCare AI aims to support early identification of pregnancy-related health
 ## 📂 Project Structure
 
 ```text
-MaternalCare-AI/
+Maternal-health-risk-prediction/
 │── app.py
 │── Maternal Health Risk Data Set.csv
 │── MaternalCare_AI_EDA_Model_Ramya.ipynb
@@ -66,7 +66,7 @@ MaternalCare-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/MaternalCare-AI.git
+git clone https://github.com/atulchaudh15/Maternal-health-risk-prediction.git
 cd MaternalCare-AI
 ```
 
